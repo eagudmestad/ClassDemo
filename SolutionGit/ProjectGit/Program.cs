@@ -11,6 +11,7 @@ namespace ProjectGit
         static void Main(string[] args)
         {
             Console.WriteLine("Something new.");
+            Console.WriteLine("Something new again.");
         }
     }
 }
