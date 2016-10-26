@@ -10,7 +10,7 @@ namespace ProjectGit
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Something new.");
         }
     }
 }
