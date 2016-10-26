@@ -12,6 +12,7 @@ namespace ProjectGit
         {
             Console.WriteLine("Something new.");
             Console.WriteLine("Something new again.");
+            Console.WriteLine("Something new again again.");
         }
     }
 }
